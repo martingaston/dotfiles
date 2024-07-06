@@ -1,0 +1,2 @@
+#[includeIf "gitdir:~/professional-client-work/"]
+#  path = ~/professional-client-work/.gitconfig

@@ -1,0 +1,15 @@
+[user]
+	email = 35241716+martingaston@users.noreply.github.com
+	name = Martin Gaston
+	signingkey = B7CE43D86DDE68A0
+[pull]
+	ff = only
+	rebase = false
+[init]
+	defaultbranch = main
+[commit]
+	gpgsign = true
+[push]
+	autoSetupRemote = true
+[include]
+  path = ~/.dotfiles/git/client-configs
