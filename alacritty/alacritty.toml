@@ -5,7 +5,7 @@ program = "/bin/zsh"
 args = ["-l", "-c", "zellij"]
 
 [font]
-normal = { family = "Fira Code", style = "Retina" }
+normal = { family = "FiraCode Nerd Font", style = "Retina" }
 size = 14
 
 [window]
